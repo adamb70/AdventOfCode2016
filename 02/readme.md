@@ -12,7 +12,6 @@ You can't hold it much longer, so you decide to figure out the code as you walk 
 1 2 3
 4 5 6
 7 8 9
-
 ```
 
 Suppose your instructions are:
