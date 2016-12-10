@@ -22,7 +22,7 @@ What is the **decompressed length** of the file (your puzzle input)? Don't count
 
 Apparently, the file actually uses **version two** of the format.
 
-In version two, the only difference is that markers within decompressed data **are** decompressed. This, the documentation explains, provides much more substantial compression capabilities, allowing many-gigabyte files to be stored in <span title="&quot;It's the bomb!&quot;, the documentation claims.">only a few kilobytes</span>.
+In version two, the only difference is that markers within decompressed data **are** decompressed. This, the documentation explains, provides much more substantial compression capabilities, allowing many-gigabyte files to be stored in only a few kilobytes.
 
 For example:
 
